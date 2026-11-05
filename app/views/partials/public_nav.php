@@ -1,0 +1,1 @@
+<nav class="navbar navbar-expand topbar px-3"><a class="navbar-brand text-white fw-bold" href="index.php">🌱 TANI PUPUK</a><div class="ms-auto"><a class="text-white me-3" href="index.php?page=informasi">Informasi Pupuk</a><a class="text-white me-3" href="index.php?page=login">Login</a><a class="btn btn-light btn-sm" href="index.php?page=register">Daftar</a></div></nav>
